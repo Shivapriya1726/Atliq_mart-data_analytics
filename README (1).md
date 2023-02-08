@@ -16,6 +16,10 @@ Imagine yourself as Peter Pandey and perform the following task:
 3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 
+![image](https://user-images.githubusercontent.com/90460346/217416594-da4fc94d-81d7-4411-8f73-0298c7f6e889.png)
+![image](https://user-images.githubusercontent.com/90460346/217416669-0861690b-740e-466c-878b-1ba9a31e5c27.png)
+
+
 ## What I learnt 
 
 1. I learnt How to create KPI with different visuals
